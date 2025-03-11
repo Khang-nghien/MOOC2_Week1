@@ -1,0 +1,36 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+
+header {
+    background-color: blue;
+}
+
+nav {
+    background-color: aqua;
+}
+
+main {
+    background-color: blanchedalmond;
+    font-size: medium;
+}
+
+footer {
+    background-color: cadetblue;
+}
+
+li {
+    display: inline;
+    width: 50%;
+}
+
+h1 {
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rebeccapurple;
+}
+
+p {
+    line-height: 75%;
+}
