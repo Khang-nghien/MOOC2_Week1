@@ -9,6 +9,8 @@ header {
 
 nav {
     background-color: aqua;
+    display: inline-block;
+    width: 80%;
 }
 
 main {
@@ -33,4 +35,17 @@ h1 {
 
 p {
     line-height: 75%;
+}
+
+header img {
+    width: 10%;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 40% 40%;
+}
+
+image.grid {
+    size: 100%;
 }
